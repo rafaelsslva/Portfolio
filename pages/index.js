@@ -24,30 +24,12 @@ export default function Home() {
         <div className={styles.grid}>
           <a href="#" className={styles.card}>
             <h2>Work</h2>
-            <p>Lorem ipsum dolor sdasdsdasdsadasdsadasdsad</p>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta, temporibus ducimus aliquid necessitatibus beatae vel libero.</p>
           </a>
 
           <a href="#" className={styles.card}>
             <h2>About me</h2>
-            <p>Learn about Next.js in an interactive course with quizzes!</p>
-          </a>
-
-          <a
-            href="#"
-            className={styles.card}
-          >
-            <h2>Examples</h2>
-            <p>Discover and deploy boilerplate example Next.js projects.</p>
-          </a>
-
-          <a
-            href="#"
-            className={styles.card}
-          >
-            <h2>Deploy</h2>
-            <p>
-              Instantly deploy your Next.js site to a public URL with Vercel.
-            </p>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta, temporibus ducimus aliquid necessitatibus beatae vel libero.</p>
           </a>
         </div>
     </div>
