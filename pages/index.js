@@ -31,6 +31,16 @@ export default function Home() {
             <h2>About me</h2>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta, temporibus ducimus aliquid necessitatibus beatae vel libero.</p>
           </a>
+
+          <a href='#' className={styles.card}>
+            <h2>Lorem</h2>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta, temporibus ducimus aliquid necessitatibus beatae vel libero</p>
+          </a>
+
+          <a href='#' className={styles.card}>
+            <h2>Lorem</h2>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta, temporibus ducimus aliquid necessitatibus beatae vel libero</p>
+          </a>
         </div>
     </div>
   )
